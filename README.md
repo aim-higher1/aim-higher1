@@ -21,15 +21,33 @@ Hi, I'm [Aim higher] 👋 Cloud Network Engineer | Cloud . NetWrok . IT Support
 I'm a cloud engineer focused on building secure, automated, and scalable infrastructure on AWS. I
 write Python automation, worked with Docker,k8s , Terraform , Designing Infra etc .
 
-🛠 Tech & Tools
+ Tech & Tools
 
-• Cloud: AWS (S3, CloudFront, IAM, Lambda, Route53, CloudWatch) • Programming: Python, Bash
-• OS : Linux , MacOS , Windows 
-• Automation: Python (Boto3)
-• IaC / Config: Terraform (Hands-On Real World Scenarios ), Ansible For Configuration.
-• DevOps: Docker, CI/CD (GitLab , CodeBuild , Jenkins), K8s .
+•## Skills & Hands-on Experience
 
+### Containers & Orchestration
+- Kubernetes (hands-on labs: deployments, services, ingress, configmaps, secrets)
+- Docker (images, containers, volumes, networks, Dockerfiles)
 
+### 🐧 Linux & OS
+- Linux (CLI, system administration, logs, permissions, bash scripting)
+- MacOS & Windows 
+
+### 🌐 Networking
+- TCP/IP fundamentals, subnetting, routing, firewalls, DNS
+- Load balancing, network troubleshooting and more.
+- OSI Model
+- 
+### ☁️ Cloud & DevOps
+- AWS (Computing Services , Databases , Networking , Serverless tools , CI/CD [CodeBuild] IAM , 
+- CI/CD: GitHub Actions, GitLab, CodeBuild, Jenkins
+- Infrastructure as Code: Terraform (hands-on real-world scenarios), Ansible for configuration
+
+### 🐍 Programming & Automation
+- Python + (boto3 automation scripts)
+- YAML & JSON for config and cloud tools
+- Bash scripting from linux Hands-on
+- 
 🚀 Highlight Projects
 • Coming Soon :)
 
