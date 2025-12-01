@@ -58,6 +58,22 @@ write Python automation, worked with Docker,k8s , Terraform , Designing Infra et
 
 ---
 
+### 🛠️ Tech Stack  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0052CC?logo=cisco&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
+<!--
 ## 🛠 Tech Stack
 
 ### **Cloud**
@@ -85,7 +101,7 @@ write Python automation, worked with Docker,k8s , Terraform , Designing Infra et
 ### **Project Management**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
+-->
 
 
 
@@ -108,4 +124,5 @@ write Python automation, worked with Docker,k8s , Terraform , Designing Infra et
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aim-higher1&show_icons=true&theme=default) -->
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aim-higher1&layout=compact&theme=default)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aim-higher1&layout=compact&theme=default&cache_seconds=7200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aim-higher1&count_private=true&layout=compact)
 
