@@ -47,14 +47,14 @@ write Python automation, worked with Docker,k8s , Terraform , Designing Infra et
 - Python + (boto3 automation scripts)
 - YAML & JSON for config and cloud tools
 - Bash scripting from linux Hands-on
-- 
+  
 🚀 Highlight Projects
 • Coming Soon :)
 
 
 📫 Contact
-• Email: your.email@example.com
-• LinkedIn: https://www.linkedin.com/in/<your-profile>
+• Email: inquire
+• LinkedIn: inquire
 
 ---
 
