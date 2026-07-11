@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm [Aim higher] 👋 Cloud Network Engineer | Cloud . NetWrok . IT Support 
+Hi, I'm [Aim higher] 👋 Cloud Network Engineer | Cloud . Network . IT Support 
 
 🔭 About Me
 
