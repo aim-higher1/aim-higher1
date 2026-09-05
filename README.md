@@ -124,8 +124,10 @@ write Python automation, worked with Docker,k8s , Terraform , Designing Infra et
 ## 📈 GitHub Stats
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aim-higher1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 -->
-
-![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aim-higher1&theme=vue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aim-higher1&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<!--![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aim-higher1&theme=vue)-->
 <!--![Overall](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aim-higher1&theme=vue&utcOffset=8)-->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aim-higher1&show_icons=true&theme=default) -->
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aim-higher1&layout=compact&theme=default)-->
