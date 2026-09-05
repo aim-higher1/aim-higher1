@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm [Aim higher] 👋 Cloud Network Engineer | Cloud . Network . IT Support 
+<h1 align="center">Hi 👋, I'm [Aim-higher1]</h1>
+<h3 align="center">A passionate [I'm a System Infra  / cloud Infra engineer] </h3>
 
 🔭 About Me
 
-I'm a cloud engineer focused on building secure, automated, and scalable infrastructure on AWS. I
+
+I'm a System Infra  / cloud Infra engineer focused on building secure, automated, and scalable infrastructure on AWS. I
 write Python automation, worked with Docker,k8s , Terraform , Designing Infra etc .
 
  Tech & Tools
@@ -44,35 +46,37 @@ write Python automation, worked with Docker,k8s , Terraform , Designing Infra et
 - Infrastructure as Code: Terraform (hands-on real-world scenarios), Ansible for configuration
 
 ### 🐍 Programming & Automation
-- Python + (boto3 automation scripts)
-- YAML & JSON for config and cloud tools
+
 - Bash scripting from linux Hands-on
-  
-🚀 Highlight Projects
-• Coming Soon :)
+- Python
 
-
-📫 Contact
-• Email: inquire
-• LinkedIn: inquire
 
 ---
 
-### 🛠️ Tech Stack  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+### 🛠️ Tech Stack
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?logo=microsoft&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0066CC?logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-0078D4?logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-4285F4?logo=google&logoColor=white)
+![Hybrid Cloud](https://img.shields.io/badge/Hybrid%20Cloud-0089D6?logo=icloud&logoColor=white)
+![IaaS](https://img.shields.io/badge/IaaS-5C2D91?logoColor=white)
+![PaaS](https://img.shields.io/badge/PaaS-5C2D91?logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS-5C2D91?logoColor=white)
+![Virtualization](https://img.shields.io/badge/Virtualization-6B7280?logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0052CC?logo=cisco&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-
 <!--
 ## 🛠 Tech Stack
 
