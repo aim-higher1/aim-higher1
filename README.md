@@ -132,7 +132,7 @@ write Python automation, worked with Docker,k8s , Terraform , Designing Infra et
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aim-higher1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 -->
-### 📊 GitHub Stats
+
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aim-higher1&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p> -->
