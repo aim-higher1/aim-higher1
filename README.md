@@ -27,23 +27,25 @@ write Python automation, worked with Docker,k8s , Terraform , Designing Infra et
 
 •## Skills & Hands-on Experience
 
-### Containers & Orchestration
-- Kubernetes (hands-on labs: deployments, services, ingress, configmaps, secrets)
-- Docker (images, containers, volumes, networks, Dockerfiles)
+### ☁️ Cloud & DevOps
+- AWS (Computing Services , Databases , Networking , Serverless tools , CI/CD [CodeBuild] IAM , 
+- CI/CD: GitHub Actions, GitLab, CodeBuild, Jenkins
+- Infrastructure as Code: Terraform (hands-on real-world scenarios), Ansible for configuration
 
 ### 🐧 Linux & OS
 - Linux (CLI, system administration, logs, permissions, bash scripting)
-- MacOS & Windows 
+- MacOS & Windows
 
 ### 🌐 Networking
 - TCP/IP fundamentals, subnetting, routing, firewalls, DNS
 - Load balancing, network troubleshooting and more.
 - OSI Model
-- 
-### ☁️ Cloud & DevOps
-- AWS (Computing Services , Databases , Networking , Serverless tools , CI/CD [CodeBuild] IAM , 
-- CI/CD: GitHub Actions, GitLab, CodeBuild, Jenkins
-- Infrastructure as Code: Terraform (hands-on real-world scenarios), Ansible for configuration
+
+  
+### Containers & Orchestration
+- Kubernetes (hands-on labs: deployments, services, ingress, configmaps, secrets)
+- Docker (images, containers, volumes, networks, Dockerfiles)
+
 
 ### 🐍 Programming & Automation
 
