@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi There :)  👋, I'm [Aim-higher1]</h1>
+<h1 align="center">Hi There :)  👋</h1>
 <h3 align="center">A passionate [ System Infra  / cloud Infra engineer] </h3>
 
 🔭 About Me
