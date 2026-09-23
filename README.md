@@ -25,7 +25,7 @@ write Python automation, worked with Docker,k8s , Terraform , Designing Infra et
 
  Tech & Tools
 
-•## Skills & Hands-on Experience
+Skills & Hands-on Experience
 
 ### ☁️ Cloud & DevOps
 - AWS (Computing Services , Databases , Networking , Serverless tools , CI/CD [CodeBuild] IAM , 
