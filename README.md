@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 🔭 About Me
 
 
-I'm a cloud Infra / System Infra engineer focused on building secure, automated, and scalable infrastructure on AWS. I
-write Python automation, worked with Docker,k8s , Terraform , Designing Infra etc .
+I'm a cloud Infra / System Infra engineer focused on building secure, automated, and scalable infrastructure on AWS. worked with Docker,k8s , Terraform , Designing Infra etc .
 
  Tech & Tools
 
